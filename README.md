@@ -24,4 +24,3 @@ in detail :
 
 - the required codes for training , extracting the weights, pruning and again finetuninng, are all specified in the codes.
 
-- 
